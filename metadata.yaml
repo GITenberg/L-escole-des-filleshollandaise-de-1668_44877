@@ -1,0 +1,26 @@
+_repo: L-escole-des-filleshollandaise-de-1668_44877
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44877-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Millot, Michel, active 1655
+    gutenberg_agent_id: '42958'
+    url: http://www.gutenberg.org/2009/agents/42958
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2014-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44877'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Erotic literature'
+title: "L'escole des filles\r\nréimpression complète du texte original sur la contrefaçon\
+  \ hollandaise de 1668"
+url: http://www.gutenberg.org/ebooks/44877
